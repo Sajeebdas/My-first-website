@@ -1,8 +1,20 @@
 div{
     background-color: rgb(228, 219, 89);
     padding: 10px;
-    border: 20px;
-    margin: 30px;
+    border: 30px;
+    border-width: 40px;
+    margin: 20px;
     border-radius: 8px;
+    background-image: url("/copy.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: left;
+    text-align: right;
+
     
+}
+p{
+    text-align-last: right;
+    text-size-adjust: 20px;
+    text-shadow: 30px red;
 }
